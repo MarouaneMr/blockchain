@@ -1,7 +1,7 @@
 let contract;
 let signer;
 
-const contractAddress = "Y0x5939748d9DBCba14f83f11dF51e86698f50DaB9D";
+const contractAddress = "0x5939748d9DBCba14f83f11dF51e86698f50DaB9D";
 const abi = [
   "function name() view returns (string)",
   "function symbol() view returns (string)",
